@@ -219,7 +219,22 @@ text-shadow:0px 1px 0px #ffffff;
   content: '';
   width: 20px;
   height: 3px;
-  background-color: #808080;
+  background-color: #FFA500;
+}
+
+.map__olivia {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__olivia::before {
+  position: absolute;
+  top: 30%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 3px;
+  background-color: #808000;
 }
 
 .map__logo {
@@ -401,9 +416,11 @@ text-shadow:0px 1px 0px #ffffff;
   background-color: #800000;
 }
 .check07:checked+label::before {
-  background-color: #808080;
+  background-color: #FFA500;
 }
-
+.check08:checked+label::before {
+  background-color: #808000;
+}
 
 
 /* стили для чекбокса, находящегося в состоянии disabled */
@@ -435,7 +452,7 @@ text-shadow:0px 1px 0px #ffffff;
       height: 500px;
     }
     .map__legend {
-      top: -125px;
+      top: -135px;
       left: 10px;
       width: 100px;
       color: #fff;
@@ -451,7 +468,8 @@ text-shadow:0px 1px 0px #ffffff;
     .map__green,
     .map__black,
     .map__brown,
-    .map__gray {
+    .map__gray,
+    .map__olivia {
       font-size: 9px;
     }
     .map__red::before,
@@ -460,7 +478,8 @@ text-shadow:0px 1px 0px #ffffff;
     .map__green::before,
     .map__black::before,
     .map__brown::before,
-    .map__gray::before {
+    .map__gray::before,
+    .map__olivia::before {
       width: 10px;
       left: -15px;
     }
