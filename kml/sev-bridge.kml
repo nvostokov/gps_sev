@@ -103,10 +103,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				11
+				Пешеходный мост № 1 через реку Забориху на ул. Лебедева
 			</name>
 			<description>
-				Пешеходный мост № 1 через реку Забориху на ул. Лебедева
+				11
 			</description>
 			<Style>
 				<LineStyle>
@@ -135,10 +135,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				12
+				Пешеходный мост № 2 через реку Забориху
 			</name>
 			<description>
-				Пешеходный мост № 2 через реку Забориху
+				12
 			</description>
 			<Style>
 				<LineStyle>
@@ -167,10 +167,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				13
+				Мост № 1 через реку Забориху на ул. Юбилейная
 			</name>
 			<description>
-				Мост № 1 через реку Забориху на ул. Юбилейная
+				13
 			</description>
 			<Style>
 				<LineStyle>
@@ -199,10 +199,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				14
+				Мост № 3 через реку Забориху на пр. Победы
 			</name>
 			<description>
-				Мост № 3 через реку Забориху на пр. Победы
+				14
 			</description>
 			<Style>
 				<LineStyle>
@@ -231,10 +231,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				15
+				Путепровод по пр. Труда
 			</name>
 			<description>
-				Путепровод по пр. Труда
+				15
 			</description>
 			<Style>
 				<LineStyle>
@@ -263,10 +263,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				16
+				Мост через реку М. Кудьма на Морском проспекте
 			</name>
 			<description>
-				Мост через реку М. Кудьма на Морском проспекте
+				16
 			</description>
 			<Style>
 				<LineStyle>
@@ -295,11 +295,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				1
+				Мост через реку  М. Кудьма
 			</name>
 			<description>
-				Мост через реку 
-М. Кудьма
+				1
 			</description>
 			<Style>
 				<LineStyle>
@@ -328,10 +327,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				2
+				Водопропускная труба через ручей Столешный исток
 			</name>
 			<description>
-				Водопропускная труба через ручей Столешный исток
+				2
 			</description>
 			<Style>
 				<LineStyle>
@@ -360,10 +359,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				3
+				Мост № 1 через реку Ширшему
 			</name>
 			<description>
-				Мост № 1 через реку Ширшему
+				3
 			</description>
 			<Style>
 				<LineStyle>
@@ -392,10 +391,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				4
+				Мост № 2 через реку Ширшему
 			</name>
 			<description>
-				Мост № 2 через реку Ширшему
+				4
 			</description>
 			<Style>
 				<LineStyle>
@@ -424,10 +423,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				6
+				Мост через реку Кудьму по 104 маршруту (Кородское шоссе)
 			</name>
 			<description>
-				Мост через реку Кудьму по 104 маршруту (Кородское шоссе)
+				6
 			</description>
 			<Style>
 				<LineStyle>
@@ -456,10 +455,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				7
+				Мост через реку Рассоху по Солзенскому шоссе
 			</name>
 			<description>
-				Мост через реку Рассоху по Солзенскому шоссе
+				7
 			</description>
 			<Style>
 				<LineStyle>
@@ -488,10 +487,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				8
+				Мост через реку Рассоху по дороге на Солзу
 			</name>
 			<description>
-				Мост через реку Рассоху по дороге на Солзу
+				8
 			</description>
 			<Style>
 				<LineStyle>
@@ -520,11 +519,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				9
+				Мост через реку Ширшему на ул. Водогон
 			</name>
 			<description>
-				Мост через реку Ширшему на 
-ул. Водогон
+				9
 			</description>
 			<Style>
 				<LineStyle>
@@ -553,10 +551,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				10
+				Путепровод по ул. Окружная
 			</name>
 			<description>
-				Путепровод по ул. Окружная
+				10
 			</description>
 			<Style>
 				<LineStyle>
@@ -585,10 +583,10 @@
 		</Placemark>
 		<Placemark>
 			<name>
-				5
+				Мост через дренажную канаву у КОС
 			</name>
 			<description>
-				Мост через дренажную канаву у КОС
+				5
 			</description>
 			<Style>
 				<LineStyle>
