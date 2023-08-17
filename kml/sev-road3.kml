@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			sev-road3
+		</name>
+		<Placemark>
+			<name>
+				внутриквартальный проезд от  ул. Кирилкина в районе дома № 5 до школы № 13
+			</name>
+			<description>
+				от ул. Кирилкина
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7999032159,64.5394642738,0 39.7980916476,64.5391645107,0 39.7965896105,64.5393513067,0 39.7958761429,64.539441245,0 39.7951680397,64.5395703868,0 39.7930008148,64.5399947053,0 39.792464373,64.5399439719,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд в районе дома № 37 по пр. Победы
+			</name>
+			<description>
+				от пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8106268416,64.5378870348,0 39.8110238086,64.5374119454,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд в районе дома № 53 по пр. Победы
+			</name>
+			<description>
+				от пр. Победы
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8079998818,64.5374627167,0 39.8083183392,64.5370822541,0 39.8059901818,64.5367086297,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд в районе домов № 64, 68 по пр. Труда
+			</name>
+			<description>
+				от пр. Труда
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.809609559,64.5399049959,0 39.8128831071,64.5404123155,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				проезд во внутриквартальной территории в районе дома № 13 по ул. Лебедева
+			</name>
+			<description>
+				от ул. Лебедева
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8033596602,64.5391946744,0 39.8026461926,64.5393353479,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				участок внутриквартального проезда в районе дома № 56 пр. Морской  квартала № 151
+			</name>
+			<description>
+				от пр. Морского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7794500201,64.5390054533,0 39.7763064712,64.5389454935,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				участок внутриквартального проезда в районе дома № 50 пр. Морской  квартала № 151
+			</name>
+			<description>
+				от пр. Морского
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7793443367,64.5398426036,0 39.7788293526,64.5398333793,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				проезд вдоль дома № 21 по  ул. Чеснокова
+			</name>
+			<description>
+				от ул. Чеснокова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7724188731,64.5377439955,0 39.7718461335,64.5374211077,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд от ул. Кирилкина до въезда МЧС-58  квартала № 152
+			</name>
+			<description>
+				Кирилкина ул., Северодвинск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						30.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7909988031,64.5393708427,0 39.788391696,64.5392924347,0 39.787672864,64.5393800672,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Восточный переулок
+			</name>
+			<description>
+				Тургенева - Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8208179376,64.5524898276,0 39.819680681,64.5528862855,0 39.81876873,64.5539649908,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Гайдара
+			</name>
+			<description>
+				Восточный пер. -   Трудовой пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8195419098,64.5528736969,0 39.8141061494,64.5520069812,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пр. Беломорский
+			</name>
+			<description>
+				Ул.Южная – ул.Коммунальная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8544024144,64.5574812014,0 39.8550461445,64.556762162,0 39.8550783311,64.5563196669,0 39.854885212,64.5560246661,0 39.854692093,64.555840289,0 39.8541127358,64.555688177,0 39.8534046326,64.55557294,0 39.8472999249,64.5546694653,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Матросова
+			</name>
+			<description>
+				от ул. Новая
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8489627639,64.5541427943,0 39.8493278961,64.5543133968,0 39.8562707062,64.5554127776,0 39.8563779946,64.5559705233,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Новая
+			</name>
+			<description>
+				от ул. Коммунальная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8480125583,64.5539871043,0 39.8483451522,64.5540931285,0 39.8493322052,64.5540746895,0 39.8509724639,64.5539640663,0 39.8570033229,64.554955136,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Промышленный проезд
+			</name>
+			<description>
+				Пр. Грузовой - БПК
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8660841351,64.5570510715,0 39.8643450082,64.5591181074,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				пер. Русановский
+			</name>
+			<description>
+				пр. Ленина - ул. Г. Седова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8246068988,64.5539201735,0 39.832327614,64.5551091421,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Г. Седова
+			</name>
+			<description>
+				Ул.Южная - парковая зона
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8281057716,64.5498325599,0 39.8254235626,64.552949052,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Трудовой переулок
+			</name>
+			<description>
+				ул. Тургенева - ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8158282046,64.5498425505,0 39.8139746223,64.5519863073,0 39.8138780628,64.5521914558,0 39.8138566051,64.5523781626,0 39.8132422033,64.5530419771,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Некрасова
+			</name>
+			<description>
+				ул. Садовая-ул. Народная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8191055893,64.5482726998,0 39.8206505417,64.5492271027,0 39.8206612705,64.5493008716,0 39.8214337467,64.5497803644,0 39.8222156986,64.5502437233,0 39.8242756351,64.550919137,0 39.8267808183,64.5513110075,0 39.830152531,64.5518319777,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				1-Южный пер.
+			</name>
+			<description>
+				от ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8241497472,64.5527447663,0 39.8267754539,64.5496789447,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				2-Южный пер.
+			</name>
+			<description>
+				от ул. Южная
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8229245054,64.5525442967,0 39.8242589924,64.5509192339,0 39.8255840036,64.5494531269,0 39.8254672396,64.5493493792,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				3-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до ул. Некрасова
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8216720897,64.5523483925,0 39.8224969569,64.5514586522,0 39.822908764,64.5509446227,0 39.8232669268,64.5506380487,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				4-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до 3-Южного пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8197030735,64.5516868961,0 39.8213660431,64.5512028265,0 39.8216383753,64.5511913117,0 39.8224644956,64.5514517884,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				5-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до 2-Южного пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8188884844,64.5512454882,0 39.8221983303,64.5502358313,0 39.8246110653,64.5495004749,0 39.825222609,64.549260727,0 39.8254466614,64.549329896,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				6-Южный пер.
+			</name>
+			<description>
+				от ул. Южная до 5-Южного пер.
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8180907911,64.5507798843,0 39.8214274591,64.5497702102,0 39.8244637197,64.5488803751,0 39.8246997541,64.5489080388,0 39.8252040094,64.5492446116,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				проезд вдоль в/ч
+			</name>
+			<description>
+				Ул. Железнодорожная - д.23в
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8599598208,64.5655172346,0 39.8575900012,64.5651485969,0 39.8544720212,64.5646440413,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				ул. Строителей
+			</name>
+			<description>
+				Ул.Профсоюзная – ул.Пионерская
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8440781865,64.5576656045,0 39.8459289108,64.5579628921,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				внутриквартальный проезд пр. Труда в районе дома № 26 квартала  № 88
+			</name>
+			<description/>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.7916380587,64.5582600589,0 39.7919384661,64.5578982474,0 39.7924480858,64.5579673837,0 39.7928665104,64.5574304202,0 39.7927055779,64.5573497595,0 39.792861146,64.5563541568,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				вн.проезды квартала 108
+			</name>
+			<description>
+				Народная ул., 3, Северодвинск
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd6825ea
+					</color>
+					<width>
+						10.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8178803931,64.5486150039,0 39.818803073,64.5491498358,0 39.8192751418,64.5494771846,0 39.8175370704,64.5500119996,0 39.8170542727,64.549721541,0 39.8165392886,64.5494679636,0 39.8160243045,64.5496754362,0 39.8182559024,64.5488409256,0 39.818796942,64.5491465005,0 39.8170757304,64.5497169306,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
+
