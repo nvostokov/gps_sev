@@ -435,7 +435,7 @@ text-shadow:0px 1px 0px #ffffff;
       height: 500px;
     }
     .map__legend {
-      top: -105px;
+      top: -125px;
       left: 10px;
       width: 100px;
       color: #fff;
@@ -449,14 +449,18 @@ text-shadow:0px 1px 0px #ffffff;
     .map__purple,
     .map__blue,
     .map__green,
-    .map__black {
+    .map__black,
+    .map__brown,
+    .map__gray {
       font-size: 9px;
     }
     .map__red::before,
     .map__purple::before,
     .map__blue::before,
     .map__green::before,
-    .map__black::before {
+    .map__black::before,
+    .map__brown::before,
+    .map__gray::before {
       width: 10px;
       left: -15px;
     }
