@@ -501,7 +501,7 @@ function initMap() {
   map = L.map('map', {
     // disable zooming, because we will use double-click to set up marker
     doubleClickZoom: false
-  }).setView([64.55562250746388, 39.832827097950315],13);
+  }).setView([64.55562250746388, 39.812827097950315],13);
 
   // add an OpenStreetMap tile layer
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -514,7 +514,7 @@ function initMap() {
 var customLayer = L.geoJson(null, {
     style: function(feature) {
         return { color: '#ff0000',
-                weight: 2.5,
+                weight: 3.5,
                 opacity: 1
               }
     },
@@ -531,7 +531,7 @@ omnivore.kml('kml/sev-road1.kml', null, customLayer).addTo(map);
 var customLayer2 = L.geoJson(null, {
   style: function(feature) {
       return { color: '#9c27b0',
-              weight: 2.5,
+              weight: 3.5,
               opacity: 1
             }
           },
@@ -546,7 +546,7 @@ omnivore.kml('kml/sev-road2.kml', null, customLayer2).addTo(map);
 var customLayer3 = L.geoJson(null, {
   style: function(feature) {
       return { color: '#0000ff',
-              weight: 2.5,
+              weight: 3.5,
               opacity: 1
             }
           },
@@ -561,7 +561,7 @@ omnivore.kml('kml/sev-road3.kml', null, customLayer3).addTo(map);
 var customLayer4 = L.geoJson(null, {
   style: function(feature) {
       return { color: '#0f9d58',
-              weight: 5,
+              weight: 4,
               opacity: 0.8
             }
           },
@@ -576,7 +576,7 @@ omnivore.kml('kml/sev-ost.kml', null, customLayer4).addTo(map);
 var customLayer5 = L.geoJson(null, {
   style: function(feature) {
       return { color: '#424242',
-               weight: 1.5,
+               weight: 2.5,
                opacity: 1
               }
             },
@@ -604,10 +604,11 @@ omnivore.kml('kml/sev-bridge.kml', null, customLayer6).addTo(map);
 
 ////
 
+
 var customLayer7 = L.geoJson(null, {
   style: function(feature) {
-      return { color: '#808080',
-               weight: 4,
+      return { color: '#FFA500',
+               weight: 2,
                opacity: 1
               }
             },
@@ -618,6 +619,21 @@ var customLayer7 = L.geoJson(null, {
 omnivore.kml('kml/sev-top.kml', null, customLayer7).addTo(map);
 
 ///
+
+var customLayer8 = L.geoJson(null, {
+  style: function(feature) {
+      return { color: '#808000',
+               weight: 3.5,
+               opacity: 1
+              }
+            },
+            onEachFeature: function(feature, layer) {
+              layer.bindPopup(feature.properties.name);
+        }
+        });
+omnivore.kml('kml/sev-suburb.kml', null, customLayer8).addTo(map);
+
+////
 
 
 $("#showAll").click(function(event) {
@@ -630,6 +646,7 @@ $("#showAll").click(function(event) {
   $("#arh5")[0].checked = true;
   $("#arh6")[0].checked = true;
   $("#arh7")[0].checked = true;
+  $("#arh8")[0].checked = true;
 
   $(".check").each(function(i, el) {
     $(el).change(); // Trigger the event.
@@ -668,6 +685,9 @@ $(".check").change(function() {
       break;
     case "arh7":
       toggleLayer(this.checked, customLayer7);
+      break;
+    case "arh8":
+      toggleLayer(this.checked, customLayer8);
       break;
       // ...and so on...
   }
