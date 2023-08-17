@@ -177,6 +177,21 @@ text-shadow:0px 1px 0px #ffffff;
   background-color: #0f9d58;
 }
 
+.map__brown {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__brown::before {
+  position: absolute;
+  top: 30%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 3px;
+  background-color: #800000;
+}
+
 .map__black {
   font-size: 16px;
   position: relative;
@@ -190,6 +205,21 @@ text-shadow:0px 1px 0px #ffffff;
   width: 20px;
   height: 3px;
   background-color: black;
+}
+
+.map__gray {
+  font-size: 16px;
+  position: relative;
+}
+
+.map__gray::before {
+  position: absolute;
+  top: 30%;
+  left: -30px;
+  content: '';
+  width: 20px;
+  height: 3px;
+  background-color: #808080;
 }
 
 .map__logo {
@@ -367,6 +397,14 @@ text-shadow:0px 1px 0px #ffffff;
 .check05:checked+label::before {
   background-color: #424242;
 }
+.check06:checked+label::before {
+  background-color: #800000;
+}
+.check07:checked+label::before {
+  background-color: #808080;
+}
+
+
 
 /* стили для чекбокса, находящегося в состоянии disabled */
 .check:disabled+label::before {
