@@ -560,7 +560,7 @@ omnivore.kml('kml/sev-road3.kml', null, customLayer3).addTo(map);
 //
 var customLayer4 = L.geoJson(null, {
   style: function(feature) {
-      return { color: '#0f9d58',
+      return { color: '#FFA500',
               weight: 4,
               opacity: 0.8
             }
@@ -607,7 +607,7 @@ omnivore.kml('kml/sev-bridge.kml', null, customLayer6).addTo(map);
 
 var customLayer7 = L.geoJson(null, {
   style: function(feature) {
-      return { color: '#FFA500',
+      return { color: '#0f9d58',
                weight: 2,
                opacity: 1
               }
