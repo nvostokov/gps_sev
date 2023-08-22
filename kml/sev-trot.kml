@@ -7,6 +7,75 @@
 		</name>
 		<Placemark>
 			<name>
+				вдоль квартала № 118
+			</name>
+			<description>
+				Южная -2й южный - Некрасова - 3й южный
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd1b2218
+					</color>
+					<width>
+						4.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8216816623,64.552368894,0 39.8229047497,64.5525671246,0 39.8242512186,64.550919001,0 39.8233178098,64.5506055005,0 39.8230549534,64.550789913,0 39.8216670861,64.5523666119,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				вдоль квартала № 119
+			</name>
+			<description>
+				Южная -1й южный - Некрасова - 2й южный
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd1b2218
+					</color>
+					<width>
+						4.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8229425644,64.5525775294,0 39.8241334652,64.5527607761,0 39.8254960274,64.551118427,0 39.8243131732,64.5509340167,0 39.8229452467,64.5525752244,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				вдоль квартала № 121
+			</name>
+			<description>
+				Южная - Седова - Некрасова - 1й южный
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						dd1b2218
+					</color>
+					<width>
+						4.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					39.8242089189,64.552776954,0 39.8253890909,64.552952132,0 39.826789204,64.5513086419,0 39.8255500234,64.5511288431,0 39.8242035545,64.552779259,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
 				вдоль квартала № 66
 			</name>
 			<description>
@@ -539,7 +608,7 @@
 				вдоль квартала № 125
 			</name>
 			<description>
-				Леннина - Южная - Полярная
+				Ленина - Южная - Полярная
 			</description>
 			<Style>
 				<LineStyle>
