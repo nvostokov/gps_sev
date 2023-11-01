@@ -449,6 +449,9 @@ text-shadow:0px 1px 0px #ffffff;
   .map__legend {
     top: -480px;
   }
+  .map__weather {
+    display: none;
+  }
 }
 
 
