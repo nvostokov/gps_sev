@@ -40,9 +40,9 @@ body {
   display: none;
 }
 
-/*.wrapper {
+/* .wrapper {
   position: relative;
-}*/
+} */
 
 .map__info {
   position: absolute;
@@ -464,7 +464,7 @@ text-shadow:0px 1px 0px #ffffff;
       height: 500px;
     }
     .map__legend {
-      top: -135px;
+      top: -160px;
       left: 10px;
       width: 100px;
       color: #fff;
