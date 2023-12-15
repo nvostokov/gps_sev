@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
+    <link rel="stylesheet" href="css/style_screen.css">
 </head>
 <body>
 
@@ -101,6 +102,36 @@
             </div>
         </div>
     </div>
+    <div class="map__weather-min">
+        <div id="gsInformerID-6jh8Slo40GARH4" class="gsInformer" style="width:127px;height:99px">
+            <div class="gsIContent">
+                <div id="cityLink">
+                    <a href="https://www.gismeteo.ru/weather-severodvinsk-3914/" target="_blank" title="Погода в Северодвинске">
+                        <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/gisloader.svg" width="24" height="24" alt="Погода в Северодвинске">
+                    </a>
+                    </div>
+                <div class="gsLinks">
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="leftCol">
+                                    <a href="https://www.gismeteo.ru/" target="_blank" title="Погода">
+                                        <img alt="Погода" src="https://nst1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" width="11" height="16" />
+                                        <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/informer/gismeteo.svg" border="0" align="middle" style="left: 5px; top:1px">
+                                    </a>
+                                </div>
+                                <div class="rightCol">
+                                    <a href="https://www.gismeteo.ru/weather-severodvinsk-3914/2-weeks/" target="_blank" title="Погода в Северодвинске на 2 недели">
+                                        <img src="https://nst1.gismeteo.ru/assets/flat-ui/img/informer/forecast-2weeks.ru.svg" border="0" align="middle" style="top:auto" alt="Погода в Северодвинске на 2 недели">
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script src="js/jquery-3.6.0.min.js"></script>
@@ -110,7 +141,11 @@
  -->
  <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
 <!--  <script src="js/scr.js"></script>
- --><script src="js/script.js"></script>
-    <script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=7O7VqDIp6vIAq3"></script> <!-- Севск погода -->
+ -->
+<script src="js/scipt-geo.js"></script>
+<script src="js/script.js"></script>
+<script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=7O7VqDIp6vIAq3"></script> <!-- Севск погода -->
+<script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=6jh8Slo40GARH4"></script> <!--Севск мин-->
+
 </body>
 </html>
